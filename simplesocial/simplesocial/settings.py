@@ -25,7 +25,7 @@ SECRET_KEY = '*87h&#pjri+99#=a1**%2+_s29ak(9s+q-uwcm3zm@g&#%#2qe'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','helloandhi.pythonanywhere.com','codemastergogo.pythonanywhere.com']
+ALLOWED_HOSTS = ['codemastergogo.pythonanywhere.com']
 
 
 # Application definition
